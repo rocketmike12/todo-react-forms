@@ -1,0 +1,5 @@
+[
+	{ "id": "F1Z6GIP-kx4RDTpmm8WOK", "text": "Вивчити основи React", "completed": true },
+	{ "id": "6Gsh7UrCRtisGBqDtirvI", "text": "Розібратися з React Router", "completed": false },
+	{ "id": "Wk2MZFBzZ9dgfAhthU6SY", "text": "Пережити Redux", "completed": false }
+]
