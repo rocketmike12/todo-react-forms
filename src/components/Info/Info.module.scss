@@ -1,0 +1,14 @@
+.info {
+	width: 100%;
+	padding: 20px;
+
+	outline: 1px solid #cba6f7;
+
+    &__text {
+        margin: 0;
+
+        &:first-child {
+            margin-bottom: 10px;
+        }
+    }
+}

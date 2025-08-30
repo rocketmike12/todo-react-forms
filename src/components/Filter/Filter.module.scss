@@ -1,0 +1,26 @@
+@import "../../sass/base/base.scss";
+
+.filter {
+	width: 100%;
+	padding: 20px;
+
+	outline: 1px solid #cba6f7;
+
+	&__input {
+		outline: 1px solid #cba6f7;
+		color: #cba6f7;
+		background-color: #0a000c;
+
+        width: 100%;
+
+		padding: 10px;
+
+		&:hover {
+			background-color: #1f1626;
+		}
+
+		&::placeholder {
+			color: #cba6f7;
+		}
+	}
+}
